@@ -1,0 +1,48 @@
+
+
+#Marzine{
+    margin-top: auto;
+    
+}
+
+
+body{
+  background-color: #353535;
+}
+button{
+  font-weight: bold;
+  background-color:pink;
+  border-radius: 12px;
+  border:none;
+  float:left;
+  padding:10px;
+  margin:10px;
+}
+
+
+
+
+#Title{
+   display: inline-block;
+  background-color: powderblue;
+  width: 1800px;
+  height: 50px;
+  border-radius: 10px;
+  font-weight: bold;
+  color: #353535;
+  font-size: large;
+  
+}
+
+#Main{
+  display: inline-block;
+  background-color: powderblue;
+  width: 1800px;
+  height: auto;
+  border-radius: 10px;
+  font-weight: bold;
+  color: #353535;
+  font-size: large;
+  
+}
+

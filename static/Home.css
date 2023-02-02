@@ -1,0 +1,33 @@
+
+
+#Marzine{
+    margin-top: auto;
+    float:left;
+}
+
+
+body{
+  background-color: #353535;
+}
+#Top{
+  font-weight: bold;
+  background-color:pink;
+  border-radius: 12px;
+  border:none;
+  float:left;
+  padding:10px;
+  margin:10px;
+}
+
+#Last_Top{
+  padding:10px;
+  margin:10px;
+  font-weight: bold;
+  background-color:pink;
+  border-radius: 12px;
+  border:none;
+}
+
+a{
+  color:pink;
+}

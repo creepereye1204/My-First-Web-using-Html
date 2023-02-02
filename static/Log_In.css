@@ -1,0 +1,27 @@
+
+input{
+    
+    background-color: deeppink;
+    width: 320px;
+    height: 50px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #353535;
+    font-size: large;
+    
+}
+
+#Marzine{
+    margin-top: auto;
+}
+
+
+body{
+  background-color: #353535;
+}
+
+input::placeholder{
+  color: rgb(221, 221, 221);
+  opacity: 0.5;
+}
+

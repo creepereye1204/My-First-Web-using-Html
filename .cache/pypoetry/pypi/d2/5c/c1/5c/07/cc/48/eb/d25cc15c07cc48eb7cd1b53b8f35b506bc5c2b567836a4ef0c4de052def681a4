@@ -1,0 +1,1 @@
+9999999999{"name": "js", "version": "1.0", "summary": "Root directory for Fanstatic packages", "platform": "UNKNOWN", "requires_dist": ["fanstatic", "setuptools"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}
